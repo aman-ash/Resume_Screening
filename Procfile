@@ -1,0 +1,1 @@
+web: gunicorn Resume_Scanner.wsgi --log-file -
